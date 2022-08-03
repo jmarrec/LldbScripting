@@ -1,4 +1,5 @@
 build*/
+out-*/
 cppcheck.txt
 __pycache__
 
